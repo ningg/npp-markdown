@@ -15,6 +15,8 @@ Installation instructions:
 1. When there shows up `Import successful`, then you got it.
 
 
+> NOTE: the[userDefineLang-markdown.xml][userDefineLang-markdown.xml] of this porject, initially comes from [thomsmits markdown_npp][thomsmits markdown_npp].
+
 ##Preview
 
 ![](/images/preview.png)
@@ -22,3 +24,4 @@ Installation instructions:
 
 [userDefineLang-markdown.xml]:		/userDefineLang-markdown.xml
 [Notepad++]:						http://notepad-plus-plus.org/
+[thomsmits markdown_npp]:			https://github.com/thomsmits/markdown_npp
