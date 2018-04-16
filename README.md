@@ -1,11 +1,11 @@
 # npp-markdown
 A simple Notepad++ user defined language file for markdown syntax to be used.
 
-##Overview
+## Overview
 
 This project provides a very simple user defined language file for [Notepad++][Notepad++] that does some basic syntax highlighting for markdown texts.
 
-##Usage
+## Usage
 
 Installation instructions:
 
@@ -17,7 +17,7 @@ Installation instructions:
 
 > **NOTE**: the [userDefineLang-markdown.xml][userDefineLang-markdown.xml] of this porject, initially comes from [thomsmits markdown_npp][thomsmits markdown_npp].
 
-##Preview
+## Preview
 
 ![](/images/preview.png)
 
